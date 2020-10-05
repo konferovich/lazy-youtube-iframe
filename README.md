@@ -31,3 +31,5 @@ Now you can replace iframe with <b>youtube</b> tag, like this:
 ```
 <youtube width="1280" height="720" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></youtube>
 ```
+
+lazy loading now works.
